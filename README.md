@@ -1,5 +1,7 @@
 # Systemy Baz Danych 2023/2024 – projekt
 
+The solution is in the master branch
+
 ## Wstęp
 
 Otrzymaliście zlecenie zaprojektowania systemu bazodanowego dla firmy oferującej różnego rodzaju kursy i szkolenia. Początkowo oferowane usługi były świadczone wyłącznie stacjonarnie, ale ze względu na pandemię COVID-19 usługi zostały w różnym stopniu zdigitalizowane. Obecnie model świadczenia usług jest hybrydowy, ale bardzo niejednolity dla różnych usług. Oferowane usługi dzielą się na:
